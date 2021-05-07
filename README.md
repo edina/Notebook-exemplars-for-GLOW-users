@@ -48,6 +48,7 @@ There is a separate introductory notebook for the ‘if’ and ‘for’ stateme
  ![image](https://user-images.githubusercontent.com/62135461/117040118-7259ea80-ad01-11eb-8187-6e63cfee160e.png)
 
 A following notebook provides an overview of the array data structure used across programming languages. This notebook explores elements in an array, calculating their sum using code on Noteable, as well as listing an index of numbers. This notebook activity aims to satisfy the numeracy element of the unit specification, as well as applying thinking skills. 
+
 ![image](https://user-images.githubusercontent.com/62135461/117040139-7a198f00-ad01-11eb-87ff-b0e00815fedb.png)
 
 
