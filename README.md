@@ -5,7 +5,12 @@ This repository is for coding activities developed in Jupyter notebooks using th
 
 This content aims to provide support and learning materials for teachers to adopt and use the Noteable service across schools in Scotland.
 
-## How to access these Notebooks on Noteable: click on the +GitRepo button from the Noteable dashboard and paste this URL: 
+## How to access these Notebooks on Noteable: 
+ 1. Click on the +GitRepo button
+	2. Paste into the Git Repository URL input the url from the web browser (in this case https://github.com/edina/Notebook-exemplars-for-GLOW-users)
+	3. Change the branch to main 
+	4. click on Clone
+	5. All Coding Activities in this repository will now be available to you on Noteable
 
 ### References
 
