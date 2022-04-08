@@ -151,7 +151,11 @@ The encryption and decryption notebook aims to familiarise the learner with ways
 ![image](https://user-images.githubusercontent.com/62135461/117043305-f5307480-ad04-11eb-9e9b-34653c00e679.png)
 
 
-These notebooks were authored by Alexandru Hau and James Stix. 
+Authors and acknowledgements
+
+
+Alexandru Hau - Student Coding Experience Intern for Noteable, Edina
+
 
 If you have any questions or would like to find out more about Noteable please visit www.noteable.edina.ac.uk.
 
